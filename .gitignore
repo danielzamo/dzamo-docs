@@ -1,0 +1,47 @@
+# Node.js dependencies
+node_modules/
+.yarn/
+.pnp.*
+.pnpm-store/
+
+# Build output
+build/
+.cache/
+.docusaurus/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE/editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Backup & temporary files
+*.bak
+*.tmp
+
+# Document files (PDF, Word, etc.)
+*.pdf
+*.docx
+*.odt
+*.xls
+*.xlsx
+*.js.org
+**zz-legacy
+
+
