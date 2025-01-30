@@ -43,5 +43,6 @@ Thumbs.db
 *.xlsx
 *.js.org
 **zz-legacy
+static/**notes.md
 
 
