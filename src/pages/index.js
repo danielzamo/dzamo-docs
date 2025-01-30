@@ -20,7 +20,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
-            Comenzando con Docusaurus 📚
+            📚 Documentos iniciales en este sitio 📚
           </Link>
         </div>
       </div>

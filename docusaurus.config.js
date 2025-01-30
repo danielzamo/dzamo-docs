@@ -60,9 +60,9 @@ const config = {
       // Replace with your project's social card
       image: 'img/dz-docs.svg',
       navbar: {
-        title: 'Documentación',
+        title: 'docs en Vercel',
         logo: {
-          alt: 'Sitio de documentación',
+          alt: 'Sitio de documentación, desde Vercel',
           src: 'img/dz-docs.svg',
         },
         items: [
@@ -70,7 +70,7 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Contenido inicial',
           },
 //          {to: '/blog', label: 'Blog', position: 'left'},
           {
