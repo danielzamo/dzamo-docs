@@ -38,19 +38,21 @@ module.exports = {
     {
       type: 'category',
       label: 'TCP/IP',
-      items: ['tcp-ip/index'],
+      items: ['tcp-ip/index'],  // Asegúrate de que estos archivos existan
     },
     {
       type: 'category',
       label: 'Shell Scripting',
-      items: ['shell-scripting/index', 'shell-scripting/shell-functions'],
+      items: ['shell-scripting/index', 'shell-scripting/shell-functions'], // Asegúrate de que estos archivos existan
     },
     {
       type: 'category',
       label: 'Otras Páginas',
-      items: ['docusaurus-sidebar-custom']
+      items: ['docusaurus-sidebar-custom'], // Aquí también debes asegurarte de que los archivos existan
     },
   ],
 };
+
+
 //END: Orden con nuevas paginas independientes agregadas y orden personalizado  
 
