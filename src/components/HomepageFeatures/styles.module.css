@@ -9,3 +9,18 @@
   height: 200px;
   width: 200px;
 }
+
+.cardLink {
+  text-decoration: none; /* Quita el subrayado en todos los estados */
+  color: inherit; /* Mantiene el color del texto sin cambios */
+  display: block;
+  padding: 1rem;
+  border-radius: 8px;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.cardLink:hover {
+  background-color: rgba(0, 0, 0, 0.05); /* Efecto hover */
+  text-decoration: none; /* Asegura que no aparezca el subrayado */
+  transform: scale(1.02); /* Pequeña animación al pasar el mouse */
+}

@@ -1,7 +1,7 @@
 import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'Docs',
-  tagline: 'Generado con Docusaurus',
+  tagline: 'Generado por Docusaurus',
   favicon: 'img/favicon.ico',
 
   url: 'https://dzamo-docs.vercel.app',
@@ -62,17 +62,17 @@ const config = {
       navbar: {
         title: 'docs en Vercel',
         logo: {
-          alt: 'Sitio de documentación, desde Vercel',
+          alt: 'Sitio de docs., hosteado en Vercel',
           src: 'img/dz-docs.svg',
         },
         items: [
-          {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'Contenido inicial',
-          },
-//          {to: '/blog', label: 'Blog', position: 'left'},
+//          {
+//            type: 'docSidebar',
+//            sidebarId: 'tutorialSidebar',
+//            position: 'left',
+//            label: 'Contenido inicial',
+//          },
+////          {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/danielzamo',
             label: 'GitHub',
@@ -87,8 +87,8 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'Shell Scripting',
+                to: '/docs/shell-scripting',
               },
             ],
           },
