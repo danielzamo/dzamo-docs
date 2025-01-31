@@ -1,7 +1,7 @@
 ---
-title: Ejemplo inicial Markdown
+title: Markdown page example
 ---
 
-# Ejemplo inicial de página Markdown
+# Markdown page example
 
-Con Docusaurus no es necesario saber _React_ (si que es muy recomendable), pues también soporta _Markdown_ estandar/simple, esta página es un ejemplo.
+You don't need React to write simple standalone pages.
