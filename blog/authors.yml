@@ -1,3 +1,13 @@
+dzamo:
+  name: Daniel Oscar Zamo
+  title: Holmb
+  url: https://danielzamo.github.io/
+  image_url: https://avatars.githubusercontent.com/u/5117018?v=4
+  page: true
+  socials:
+#    x: yangshunz
+    github: danielzamo
+
 yangshun:
   name: Yangshun Tay
   title: Front End Engineer @ Facebook

@@ -1,10 +1,8 @@
 ---
-id: index
 sidebar_position: 1
-title: Bienvenido a la documentación
 ---
 
-# Bienvenido a la documentación
+# Bienvenido aquí
 
 ¡Bienvenido a la documentación de nuestro sitio! Aquí encontrarás recursos sobre Shell Scripting y TCP/IP.
 
