@@ -1,6 +1,5 @@
 ---
-sidebar_position: 2
-title: CLI conversión formatos de imágenes
+sidebar_position: 3
 tags:
   - CLI Linux
   - Linux
@@ -13,7 +12,9 @@ tags:
   - Python
 ---
 
-# Convirtiendo formatos de imágenes desde el CLI de Linux
+# Convirtiendo formatos de imágenes
+
+<!-- desde el CLI de Linux -->
 
 En esta entrada se muestran algunas formas de convertir (hasta poder mejorar o modificar) formatos de imágenes principalmente desde el CLI de Linux. Utilizar estas herramientas permiten hacer script de automátismos para el procesamiento desatendido de transformación de imágenes, por ejemplo. 
 
@@ -43,7 +44,7 @@ _Nota:_ El comando tomará el `PDF` y lo convertirá en imágenes `PNG`. Si el `
 Si se necesita especificar más detalles, como la resolución o un rango de páginas, se puede usar opciones adicionales. Ejemplo:
 
 ```bash
-magicksidebar_position: 2 -density 300 input.pdf output.png
+magick -density 300 input.pdf output.png
 ```
 
 Lo anterior ajustará la densidad (resolución) de la conversión a 300 DPI (esto es común para obtener una buena calidad de imagen).

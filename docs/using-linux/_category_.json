@@ -1,8 +1,8 @@
 {
     "label": "Usando Linux",
-    "position": 5,
+    "position": 2,
     "link": {
       "type": "generated-index",
-      "description": "Aquí se comparten algunos artículos, tips y/o notas de configuraciones utilizadas a diario sean en Desktop o desde el CLI de Linux."
+      "description": "Aquí se comparten algunos artículos, tips y/o notas de configuraciones y/o utilizacion de Linux como PC de trabajo diario."
     }
   }

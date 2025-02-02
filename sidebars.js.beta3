@@ -1,0 +1,14 @@
+// @ts-check
+
+const sidebars = {
+  tutorialSidebar: [
+    'index1',
+    {
+    type: 'category',
+    label: 'Usando Linux', 
+    items: ['using-linux/converting-image-linux-cli.md'],
+    },
+  ], 
+};
+
+export default sidebars;

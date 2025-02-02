@@ -1,0 +1,8 @@
+{
+  "label": "SSG Docusaurus",
+  "position": 14,
+  "link": {
+    "type": "generated-index",
+    "description": "Generador de Sitio Estático (SSG) Docusaurus."
+  }
+}

@@ -1,0 +1,8 @@
+{
+    "label": "Google Cloud Console",
+    "position": 3,
+    "link": {
+      "type": "generated-index",
+      "description": "Aquí comparto algunos tips de las soluciones y servicios disponible por Google Cloud."
+    }
+  }
