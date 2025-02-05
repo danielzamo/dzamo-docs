@@ -26,8 +26,6 @@ const config = {
       ({
         docs: {
           sidebarPath: './sidebars.js',
-          remarkPlugins: [require('remark-math')],
-          rehypePlugins: [require('rehype-katex')],
         },
         blog: {
           showReadingTime: true,
@@ -117,13 +115,6 @@ const config = {
         darkTheme: prismThemes.dracula,
       },
     }),
-  // Aquí agregamos la sección de stylesheets para KaTeX
-  stylesheets: [
-    {
-      href: 'https://cdn.jsdelivr.net/npm/katex@0.13.11/dist/katex.min.css',
-      type: 'text/css',
-    },
-  ],
 };
 
 export default config;

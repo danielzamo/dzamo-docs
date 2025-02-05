@@ -1,0 +1,8 @@
+{
+  "label": "Exámenes de competencias",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "En este grupo Docusaurus de entradas se comparten algunas resultados de exámenes de competencias revisados para trabajar desde el CLI de Linux. En la resolución de estos se ha intentado usar herramientas de IA (principalmente el plan gratuito de ChatGPT) y todas herramientas que dan soporte al ecosistema de trabajar con documentos en formato Markdown."
+  }
+}
