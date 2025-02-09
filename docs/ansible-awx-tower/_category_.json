@@ -1,0 +1,8 @@
+{
+    "label": "Orquestador Ansible",
+    "position": 3,
+    "link": {
+      "type": "generated-index",
+      "description": "Ansible (AWX y/o Tower)."
+    }
+  }

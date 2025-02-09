@@ -1,16 +1,17 @@
 ---
 title: Distribución Linux Debian
 tags:
-- Debian
-- Linux
-- Distribuciones Linux
-- CLI Linux
-- Ubuntu
-- Paqueteria
-- deb
-- apt
-- comandos
-- dpkg
+  - Debian
+  - Linux
+  - Distribuciones Linux
+  - CLI Linux
+  - Ubuntu
+  - Paqueteria
+  - deb
+  - apt
+  - comandos
+  - dpkg
+draft: true
 ---
 
 # Introducción 
