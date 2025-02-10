@@ -6,6 +6,7 @@ tags:
   - Provisión VM
   - IaC
 draft: true
+title: Ansible inst. en Debian
 ---
 
 # Debian - Ansible - instalación
